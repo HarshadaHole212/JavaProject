@@ -1,6 +1,8 @@
+package Java_Basics;
+
 public class Operators {
 /*
-    1. Arithmetic Operators
+    1. Arithmetic Java_Basics.Operators
     Used to perform basic mathematical operations.
 
     Operator	Description	Example
@@ -10,7 +12,7 @@ public class Operators {
 /	Division	a / b
 %	Modulus (remainder)	a % b
 
-2. Relational (Comparison) Operators
+2. Relational (Comparison) Java_Basics.Operators
     Used to compare two values.
 
     Operator	Description	Example
@@ -21,7 +23,7 @@ public class Operators {
             >=	Greater or equal	a >= b
 <=	Less or equal	a <= b
 
-3. Logical Operators
+3. Logical Java_Basics.Operators
     Used to combine multiple boolean expressions.
 
     Operator	Description	Example
@@ -29,7 +31,7 @@ public class Operators {
             `		`
             !	Logical NOT	!true
 
-            4. Assignment Operators
+            4. Assignment Java_Basics.Operators
     Used to assign values to variables.
 
     Operator	Description	Example
@@ -40,7 +42,7 @@ public class Operators {
             /=	Divide and assign	a /= 2
             %=	Modulus and assign	a %= 2
 
-            5. Unary Operators
+            5. Unary Java_Basics.Operators
     Work with a single operand.
 
     Operator	Description	Example
@@ -50,7 +52,7 @@ public class Operators {
 --	Decrement	a-- or --a
 !	Logical NOT	!flag
 
-6. Bitwise Operators
+6. Bitwise Java_Basics.Operators
     Operate on bits (rarely used by beginners).
 
     Operator	Description	Example
