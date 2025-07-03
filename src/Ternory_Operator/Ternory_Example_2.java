@@ -1,6 +1,6 @@
 package Ternory_Operator;
 
-public class Example_2 {
+public class Ternory_Example_2 {
     public static void main(String[] args) {
         int num1 = 44;
         int num2 = 1;
